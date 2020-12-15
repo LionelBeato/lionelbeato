@@ -20,5 +20,6 @@ My name is Lionel Beato but you can call me Leo. I am a coding instructor and ho
 - 👯 I’m looking to collaborate on any meaningful open source Java projects
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with developing more enterprise ready skills
+- 🌕 Dark mode for life
 
 
