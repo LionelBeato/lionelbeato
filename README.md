@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lionel Beato but you can call me Leo. I am a coding instructor and hobby developer. My main language is Java but I've played around with a little bit of everything. Currently I'm trying to break into the industry so if you think I'm a good fit for your team, let me know! 
+My name is Lionel Beato but you can call me Leo. I am a coding instructor and hobby developer. My main language is Java but I've played around with a little bit of everything.
 
 - 👯‍♀️ I’m looking to collaborate on any meaningful open source Java/Kotlin/JavaScript projects
 - 🌱 I’m currently learning Rust
